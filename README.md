@@ -1,6 +1,6 @@
 # Ivan Cornejo
 
-**Solo founder — I take ideas from 0 to working prototype, fast.**
+**Solo founder. I take ideas from 0 to working prototype, fast.**
 CMU. I build full products end to end: live data in, real UI out, running on Vercel.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -14,10 +14,10 @@ CMU. I build full products end to end: live data in, real UI out, running on Ver
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[vantage-one](https://github.com/ivancor1/vantage-one)** | Storm-damage lead intelligence for roofers — live NWS/NOAA hail data becomes real homes in the damage footprint, AI-scored and ranked as leads. | Next.js · TS · Supabase |
+| **[vantage-one](https://github.com/ivancor1/vantage-one)** | Storm-damage lead intelligence for roofers. Live NWS/NOAA hail data becomes real homes in the damage footprint, AI-scored and ranked as leads. | Next.js · TS · Supabase |
 | **[nba-finals-trading](https://github.com/ivancor1/nba-finals-trading)** | Live algo-trading and market-microstructure research lab for NBA prediction markets. Ran real capital, then proved the edge was smaller than the fees. | Python |
-| **[interlink-ads](https://github.com/ivancor1/interlink-ads)** | Privacy-safe sponsored status line for Claude Code — no account, no code access, fully reversible. | Node CLI |
-| **[linepulse](https://github.com/ivancor1/linepulse)** | Passive "who's out right now" nightlife board reading Google's live busyness signal — no check-ins, no logins. | Python |
+| **[interlink-ads](https://github.com/ivancor1/interlink-ads)** | Privacy-safe sponsored status line for Claude Code: no account, no code access, fully reversible. | Node CLI |
+| **[linepulse](https://github.com/ivancor1/linepulse)** | Passive "who's out right now" nightlife board reading Google's live busyness signal. No check-ins, no logins. | Python |
 | **[pouch](https://github.com/ivancor1/pouch)** | DTC storefront and product landing (EIGEN), running on Vercel. | Next.js · TS |
 
 ---
