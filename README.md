@@ -14,6 +14,7 @@ CMU. I build full products end to end: live data in, real UI out, running on Ver
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[flight-rebook-mvp](https://github.com/ivancor1/flight-rebook-mvp)** | After a cancellation, finds the flight the airline won't offer: every airport in both metros, every carrier, live seats confirmed for your whole party, plus the DOT refund math on every option. Paste the airline's text and an LLM fills it in. | Python · Duffel · OpenAI |
 | **[vantage-one](https://github.com/ivancor1/vantage-one)** | Storm-damage lead intelligence for roofers. Live NWS/NOAA hail data becomes real homes in the damage footprint, AI-scored and ranked as leads. | Next.js · TS · Supabase |
 | **[nba-finals-trading](https://github.com/ivancor1/nba-finals-trading)** | Live algo-trading and market-microstructure research lab for NBA prediction markets. Ran real capital, then proved the edge was smaller than the fees. | Python |
 | **[interlink-ads](https://github.com/ivancor1/interlink-ads)** | Privacy-safe sponsored status line for Claude Code: no account, no code access, fully reversible. | Node CLI |
