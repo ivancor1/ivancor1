@@ -1,7 +1,7 @@
 # Ivan Cornejo
 
 **Founder. I take ideas from 0 to working prototype.**
-CMU. I build full products end to end: live data in, real UI out, running on Vercel.
+CMU. I build full products end to end.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
