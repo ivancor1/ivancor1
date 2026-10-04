@@ -19,7 +19,7 @@ CMU. I build full products end to end.
 | **[vantage-one](https://github.com/ivancor1/vantage-one)** | Storm-damage lead intelligence for roofers. Live NWS/NOAA hail data becomes real homes in the damage footprint, AI-scored and ranked as leads. | Next.js · TS · Supabase |
 | **[nba-finals-trading](https://github.com/ivancor1/nba-finals-trading)** | Live algo-trading and market-microstructure research lab for NBA prediction markets. Ran real capital, then proved the edge was smaller than the fees. | Python |
 | **[interlink-ads](https://github.com/ivancor1/interlink-ads)** | Privacy-safe sponsored status line for Claude Code: no account, no code access, fully reversible. | Node CLI |
-| **[bearing](https://github.com/ivancor1/bearing)** | A wind tunnel for ideas. Forks an unfinished idea through a dozen context-isolated reasoning branches, adversarial judges stress-test each one, and a chairman synthesizes a decision packet. | Node · Claude API |
+| **bearing** | A wind tunnel for ideas. Forks an unfinished idea through a dozen context-isolated reasoning branches, adversarial judges stress-test each one, and a chairman synthesizes a decision packet. | Node · Claude API |
 
 ---
 *Building quietly. More in the works.*
