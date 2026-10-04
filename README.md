@@ -15,11 +15,11 @@ CMU. I build full products end to end.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[flight-rebook-mvp](https://github.com/ivancor1/flight-rebook-mvp)** | After a cancellation, finds the flight the airline won't offer: every airport in both metros, every carrier, live seats confirmed for your whole party, plus the DOT refund math on every option. Paste the airline's text and an LLM fills it in. | Python · Duffel · OpenAI |
+| **bloxable** 🔒 | Prompt-first Roblox game creation. Describe a game in chat and an AI edits a real Roblox place: every change is a validated patch against a canonical instance tree, rendered live in three.js and built into a real place file you can open in Studio and publish to your own account. | Next.js · TS · three.js |
 | **[vantage-one](https://github.com/ivancor1/vantage-one)** | Storm-damage lead intelligence for roofers. Live NWS/NOAA hail data becomes real homes in the damage footprint, AI-scored and ranked as leads. | Next.js · TS · Supabase |
 | **[nba-finals-trading](https://github.com/ivancor1/nba-finals-trading)** | Live algo-trading and market-microstructure research lab for NBA prediction markets. Ran real capital, then proved the edge was smaller than the fees. | Python |
 | **[interlink-ads](https://github.com/ivancor1/interlink-ads)** | Privacy-safe sponsored status line for Claude Code: no account, no code access, fully reversible. | Node CLI |
-| **[linepulse](https://github.com/ivancor1/linepulse)** | Passive "who's out right now" nightlife board reading Google's live busyness signal. No check-ins, no logins. | Python |
-| **[pouch](https://github.com/ivancor1/pouch)** | DTC storefront and product landing (EIGEN), running on Vercel. | Next.js · TS |
+| **[bearing](https://github.com/ivancor1/bearing)** | A wind tunnel for ideas. Forks an unfinished idea through a dozen context-isolated reasoning branches, adversarial judges stress-test each one, and a chairman synthesizes a decision packet. | Node · Claude API |
 
 ---
 *Building quietly. More in the works.*
